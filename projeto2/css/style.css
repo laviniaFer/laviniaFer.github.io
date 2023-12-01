@@ -1,0 +1,9 @@
+*{
+    background-color: blueviolet; /* fundo da página */
+}
+
+.itemMenu{
+    padding: 4px; /* margem de texto da borda*/
+    border: 4px solid yellow; /* espessura, tipo e cor da bordda */
+    background-color: cornsilk; /* cor do local do texto */
+}
